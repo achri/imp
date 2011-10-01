@@ -1,0 +1,40 @@
+.ui-layout-resizer {
+	//border: 1px solid red;
+	background-image: url('../themes/content/default/images/blockcontent_c.png');
+}
+
+.ui-layout-pane {
+
+}
+
+.ui-layout-north {
+	background-image: url('../themes/content/default/images/header.jpg');
+}
+
+.ui-layout-south {
+	//padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-image: url('../themes/content/default/images/footer.png');
+}
+
+.ui-layout-toggler {
+	//border: 1px solid red;
+	background-image: url('../themes/content/default/images/footer.png');
+}
+
+.ui-layout-button-toggle{
+
+}
+
+.ui-layout-button-open{
+
+}
+
+.ui-layout-button-close{
+
+}
+
+.ui-layout-button-pin{
+
+}
